@@ -1,8 +1,8 @@
-Origin: Walrepo
-Label: Walrepo Beta Repository
+Origin: WallyRepo
+Label: WallyRepo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: A beta repository for testing tweaks and apps.
+Description: Dit is Wally's Sileo Repository met nuttige pakketten voor iOS.
