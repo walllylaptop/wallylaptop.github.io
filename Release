@@ -1,0 +1,8 @@
+Origin: WallyRepo
+Label: WallyRepo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Dit is Wally's Sileo Repository met nuttige pakketten voor iOS.
